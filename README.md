@@ -1,183 +1,348 @@
-# Hi 👋 I'm Sidra Amirbux Khonbati
+<div align="center">
 
-🎓 **BS Software Engineering Student @ SZABIST University**
-💻 **Software Developer | Mobile & Web Development | AI Integration Enthusiast**
+# 👋 Hi, I'm Sidra Amirbux Khonbati
 
-I'm a Software Engineering student passionate about building practical software solutions and exploring how **AI can be integrated into real-world applications**.
+### 💻 Software Engineering Student | Mobile & Web Developer | AI Integration Enthusiast
 
-I enjoy working on projects that combine **backend systems, mobile applications, databases, APIs, and AI-powered features**. I'm continuously learning and improving my development skills through academic projects, internships, and personal projects.
+<p>
+  <a href="https://github.com/Sidra-Amirbux-Khonbati">
+    <img src="https://img.shields.io/badge/GitHub-Sidra--Amirbux--Khonbati-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:sidraamirbux@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Mobile+%26+Web+Developer;Flutter+%7C+Node.js+%7C+PostgreSQL;AI+%26+OCR+Integration+Enthusiast;Building+Real-World+Software+Solutions" />
 
-## 👩‍💻 About Me
-
-* 🎓 Currently pursuing **BS Software Engineering** at SZABIST University
-* 📱 Interested in **Mobile & Web Application Development**
-* 🤖 Exploring **AI Integration and AI-powered applications**
-* 🔧 Building applications using **Flutter, Node.js, Express.js and PostgreSQL**
-* 🗄️ Interested in **Database Design, REST APIs and Backend Development**
-* 🔍 Exploring **OCR, PDF Parsing and AI-based automation**
-* 🌱 Currently improving my skills in **Data Structures, Backend Development & AI Tools**
-* 💡 I enjoy solving real-world problems through technology
-* 🎯 Goal: To become a strong **Software / AI Integration Engineer**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Programming Languages
+I'm a **BS Software Engineering student at SZABIST University** who enjoys turning ideas into practical software solutions.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+My current interests are focused around:
 
-### 🌐 Web Development
+* 📱 Mobile application development
+* 🌐 Backend & web development
+* 🗄️ Database design & SQL
+* 🔌 REST APIs & system integration
+* 🤖 AI-powered applications
+* 📄 OCR & document automation
+* ☁️ Cloud & enterprise technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+I'm particularly interested in learning how **AI can be integrated with real-world enterprise systems**.
 
-### 📱 Mobile Development
+---
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Sidra-Amirbux-Khonbati&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🧠 My Technology Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,js,dart" />
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
+
+### 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 ### 🗄️ Database & APIs
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,postman" />
+</p>
 
-### 🤖 AI & Automation
+### 🛠️ Tools
 
-* OCR & Document Processing
-* PDF Parsing
-* AI Tools & Generative AI
-* AI Integration
-* Automation
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🏦 Digital Banking & Utility Payment Application
 
-A full-stack banking and utility payment application built with **Flutter and Node.js/Express.js**, featuring:
+A full-stack banking and utility payment system built around mobile, backend, database and API integration.
 
-* 🔐 Customer authentication
-* 🏦 Bank account management
-* 💰 Balance & transaction management
-* 🧾 Utility bill generation and payment
-* 📱 Flutter mobile application
-* 🔌 REST API integration
-* 🗄️ PostgreSQL database
-* 📊 Admin dashboard
-* 📄 PDF bill generation
-* 📩 Email notifications
-* 📱 SMS notification integration
+**Tech:**
 
----
-
-### 📄 AI/OCR-Based Account Opening Form
-
-A document-processing application designed to simplify customer account opening.
-
-**Key features:**
-
-* 📤 Upload scanned forms/documents
-* 🔍 OCR-based text extraction
-* 📄 PDF parsing
-* 🧠 Automatic field detection
-* ✍️ Automatic form autofill
-* 📧 Customer email notification
-* 🗄️ Database integration
-
-**Technologies:** Node.js, Express.js, OCR, PDF Parsing, PostgreSQL
-
----
-
-### 🧮 Batch Wise GPA Calculator
-
-A database-based GPA calculation system developed using **PostgreSQL**.
+`Flutter` `Node.js` `Express.js` `PostgreSQL` `REST API`
 
 **Features:**
 
-* Student records
-* Course management
-* Semester-wise GPA calculation
-* Batch-wise GPA calculation
-* SQL queries and database relationships
+* 🔐 Customer authentication
+* 🏦 Account management
+* 💰 Balance management
+* 💸 Transactions
+* 🧾 Utility bill payment
+* 📊 Admin dashboard
+* 📄 PDF generation
+* 📧 Email notifications
+* 📱 SMS integration
+
+</td>
+
+<td width="50%">
+
+### 📄 OCR Account Opening System
+
+A document-processing system designed to reduce manual customer form entry.
+
+**Tech:**
+
+`Node.js` `Express.js` `OCR` `PDF Parsing` `PostgreSQL`
+
+**Features:**
+
+* 📤 Document upload
+* 🔍 OCR text extraction
+* 📄 PDF parsing
+* 🧠 Automatic field detection
+* ✍️ Form auto-fill
+* 📧 Customer email notification
+* 🗄️ Database integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧮 Batch Wise GPA Calculator
+
+A PostgreSQL-based academic management system for calculating semester and batch-wise GPA.
+
+**Tech:**
+
+`PostgreSQL` `SQL` `Database Design`
+
+</td>
+
+<td width="50%">
+
+### 🎮 Programming Projects
+
+A collection of programming and beginner-to-intermediate software projects.
+
+**Includes:**
+
+* 🎮 Tic Tac Toe
+* ✊ Rock Paper Scissors
+* 🧮 Responsive Calculator
+* 👥 HR Management System
+* 🌐 Web development projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience
+# 🤖 AI & Automation
 
-* **HBL — Internship**
-* **Apexcify Technologies — Front-End Internship**
-* **Centura — C Programming Internship**
-* **Skills4U — Software Development Internship**
-
-Through these experiences, I have worked on programming, web development, databases, software development workflows, and real-world technical projects.
-
----
-
-## 📚 Currently Learning
+I'm currently exploring the intersection of **software engineering and AI**.
 
 ```text
-Data Structures & Algorithms
-        ↓
-Backend Development
-        ↓
-REST APIs & Authentication
-        ↓
-Advanced PostgreSQL
-        ↓
-Flutter Development
-        ↓
-AI Integration
-        ↓
-Enterprise System Integration
+                    AI INTEGRATION
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+            OCR       Document AI    Automation
+             │            │            │
+             └────────────┼────────────┘
+                          │
+                    Backend APIs
+                          │
+                    Enterprise Apps
+```
+
+### Areas I'm exploring
+
+`OCR` • `PDF Processing` • `Generative AI` • `AI Tools` • `Automation` • `AI Integration`
+
+---
+
+# 🗺️ My Developer Journey
+
+```text
+       C / Java / OOP
+              │
+              ▼
+       Data Structures
+              │
+              ▼
+       Web Development
+              │
+              ▼
+       Backend Development
+              │
+              ▼
+       PostgreSQL + SQL
+              │
+              ▼
+       REST APIs
+              │
+              ▼
+       Flutter / Mobile
+              │
+              ▼
+       AI Integration
+              │
+              ▼
+   Enterprise System Integration
 ```
 
 ---
 
-## 🎯 Career Interests
+# 📚 Currently Learning
 
-I'm particularly interested in:
-
-* 🤖 AI Integration Engineering
-* 🔗 API & System Integration
-* ☁️ Cloud Technologies
-* 📱 Mobile Application Development
-* 🌐 Backend Development
-* 🏦 FinTech & Enterprise Applications
-* 🧩 Microservices & Distributed Systems
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [sidraamirbux@gmail.com](mailto:sidraamirbux@gmail.com)
-
-💼 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/)
-
-💻 **GitHub:** [Explore my repositories](https://github.com/)
+| Area               | Focus                              |
+| ------------------ | ---------------------------------- |
+| 🧠 Data Structures | Algorithms & problem solving       |
+| ☕ Java             | Advanced OOP & backend concepts    |
+| 🗄️ PostgreSQL     | Database design & advanced SQL     |
+| 🔌 APIs            | REST, authentication & integration |
+| 📱 Flutter         | Mobile application development     |
+| 🤖 AI              | AI tools & application integration |
+| ☁️ Cloud           | Cloud & enterprise technologies    |
 
 ---
 
-## ✨ My Development Philosophy
+# 💼 Experience
 
-> **Learn → Build → Break → Debug → Improve → Repeat 🚀**
+### 🏦 HBL — Internship
 
-I'm always excited to learn something new, build meaningful projects, and turn ideas into working software.
+Worked in a professional banking/technology environment and gained exposure to real-world software and enterprise workflows.
 
-⭐ Feel free to explore my repositories and follow my journey!
+### 💻 Apexcify Technologies — Front-End Internship
+
+Worked on front-end development and web technologies.
+
+### 💻 Centura — C Programming Internship
+
+Focused on C programming and programming fundamentals.
+
+### 💻 Skills4U — Software Development Internship
+
+Gained experience working on software development tasks and practical projects.
+
+---
+
+# 🏆 What I Like Building
+
+```text
+📱 Mobile Applications
+       +
+🌐 Web Applications
+       +
+⚙️ Backend Systems
+       +
+🗄️ Databases
+       +
+🔌 APIs
+       +
+🤖 AI
+       =
+🚀 Real-World Software Solutions
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-Amirbux-Khonbati&hide_border=true&theme=github-compact" width="95%"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Strengthen Data Structures & Algorithms
+* [ ] Become stronger in Java backend development
+* [ ] Master PostgreSQL & database design
+* [ ] Build more production-style APIs
+* [ ] Improve Flutter development
+* [ ] Build AI-integrated applications
+* [ ] Learn enterprise system integration
+* [ ] Contribute to open-source projects
+* [ ] Build a strong software engineering portfolio
+
+---
+
+# 💡 My Development Philosophy
+
+<div align="center">
+
+### **Learn → Build → Break → Debug → Improve → Repeat 🚀**
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sidraamirbux@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sidra-Amirbux-Khonbati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
