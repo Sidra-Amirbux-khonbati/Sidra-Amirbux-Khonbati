@@ -41,20 +41,15 @@ I'm particularly interested in learning how **AI can be integrated with real-wor
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true" width="48%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true" width="48%" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Sidra-Amirbux-Khonbati&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=Sidra-Amirbux-Khonbati&hide_border=true" width="70%" />
 
 </div>
-
 ---
 
 # 🧠 My Technology Stack
