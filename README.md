@@ -338,7 +338,8 @@ Gained experience working on software development tasks and practical projects.
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&color=0e75b6&style=flat" />
 <a href="https://sidra-amirbux-khonbati.github.io/sidra_portfolio/"/>
+<img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&color=0e75b6&style=flat" />
+
 
 </div>
