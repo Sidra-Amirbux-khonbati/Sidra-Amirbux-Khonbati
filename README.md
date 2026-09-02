@@ -72,10 +72,10 @@ Document-processing app that automates data extraction from scanned account-open
 ### 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+  
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidra-Amirbux-Khonbati&theme=tokyonight&hide_border=true" width="97%" />
