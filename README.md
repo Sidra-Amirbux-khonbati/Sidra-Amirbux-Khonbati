@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIHZpZXdCb3g9IjAgMCA0NSA0NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGV4dCB4PSI0IiB5PSIzNiIgZm9udC1zaXplPSIzMiI+CiAgICDwn5GLCiAgICA8YW5pbWF0ZVRyYW5zZm9ybQogICAgICBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iCiAgICAgIHR5cGU9InJvdGF0ZSIKICAgICAgdmFsdWVzPSIwIDIyIDIyOyAyNSAyMiAyMjsgMCAyMiAyMjsgMjUgMjIgMjI7IDAgMjIgMjI7IDAgMjIgMjIiCiAgICAgIGR1cj0iMi41cyIKICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiCiAgICAvPgogIDwvdGV4dD4KPC9zdmc+" width="35px" alt="wave"/> Hi, my name is Sidra Amirbux Khonbati
+# Hi <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-wave/master/wave.gif" width="30px"> my name is Sidra Amirbux Khonbati
 
 ### Software Engineering Student | Mobile & Backend Developer | AI Integration
 
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Building+Mobile+%26+Backend+Applications;Flutter+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Designing+REST+APIs+%26+Database+Systems;Exploring+AI+%26+OCR+Integration Pipeline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Building+Mobile+%26+Backend+Applications;Flutter+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Designing+REST+APIs+%26+Database+Systems;Exploring+AI+%26+OCR+Integration+Pipeline" />
 
 </div>
 
