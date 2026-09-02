@@ -278,11 +278,11 @@ Gained experience working on software development tasks and practical projects.
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-Amirbux-Khonbati&hide_border=true&theme=github-compact" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-Amirbux-Khonbati&theme=github-compact" width="95%">
 
 </div>
 
