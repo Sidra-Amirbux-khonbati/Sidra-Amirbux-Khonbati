@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-wave/master/wave.gif" width="30px"> my name is Sidra Amirbux Khonbati
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7D/giphy.gif" width="35px"> I'm Sidra Amirbux Khonbati
 
 ### Software Engineering Student | Mobile & Backend Developer | AI Integration
 
@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Building+Mobile+%26+Backend+Applications;Flutter+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Designing+REST+APIs+%26+Database+Systems;Exploring+AI+%26+OCR+Integration+Pipeline" />
 
 </div>
 
