@@ -5,15 +5,15 @@
 ### Software Engineering Student | Mobile & Backend Developer | AI Integration
 
 <p>
-  <a href="https://github.com/Sidra-Amirbux-Khonbati">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:sidraamirbux@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sidra-amirbux-khonbati-992b9833b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://github.com/Sidra-Amirbux-Khonbati">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:sidraamirbux@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sidra-amirbux-khonbati-992b9833b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Mobile+%26+Backend+Applications;Flutter+%7C+Node.js+%7C+PostgreSQL;Designing+REST+APIs+%26+Database+Systems;Exploring+AI+%26+OCR+Integration;Turning+Ideas+Into+Working+Software"/>
@@ -22,136 +22,78 @@
 
 ---
 
-## 👩‍💻 About
+## 👩‍💻 About Me
 
-I'm a Software Engineering student at **SZABIST University** who enjoys building applications that solve practical problems.
+I'm a Software Engineering student at **SZABIST University** who enjoys building applications that solve practical problems — from idea, to system design, to shipped product.
 
-My work currently sits around:
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[📐 System Design]
+    B --> C[📱 Mobile / Frontend]
+    C --> D[⚙️ Backend API]
+    D --> E[🗄️ Database]
+    E --> F[🔌 Integration]
+    F --> G[🚀 Working Software]
 
-**Mobile Apps → Backend APIs → Databases → Integrations → AI**
-
-I like taking an idea, designing the system behind it, building the application, connecting the APIs and database, and turning it into something that actually works.
-
-```text
-Idea
-  ↓
-System Design
-  ↓
-Frontend / Mobile
-  ↓
-Backend API
-  ↓
-Database
-  ↓
-Integration
-  ↓
-Working Software 🚀
+    style A fill:#FFD93D,stroke:#333,color:#000
+    style G fill:#6BCB77,stroke:#333,color:#000
 ```
 
 ---
 
-# 🚀 Things I've Built
+## 🚀 Featured Projects
 
-## 🏦 Finova — Digital Banking & Utility Payment System
+### 🏦 Finova — Digital Banking & Utility Payment System
 
-A full-stack digital banking application built around banking and utility-payment workflows.
-
-**Built with**
+Full-stack digital banking app built around real banking and utility-payment workflows.
 
 `Flutter` `Node.js` `Express.js` `PostgreSQL` `REST API`
 
-**What I implemented**
-
-- 🔐 Customer authentication
-- 🏦 Account management
-- 💰 Balance management
-- 💸 Credit, debit & transfer transactions
-- 🧾 Utility bill generation & payment
-- 📊 Admin dashboard
-- 📄 PDF generation
-- 📧 Email notifications
-- 📱 SMS integration
-- 🗄️ PostgreSQL database
-
-**Architecture**
-
-```text
-Flutter Mobile App
-        │
-        ▼
-   REST API
-        │
-        ▼
- Node.js / Express
-        │
-        ▼
-   PostgreSQL
-        │
-        ├── Accounts
-        ├── Balances
-        ├── Transactions
-        └── Bills
+```mermaid
+flowchart TB
+    App[📱 Flutter Mobile App] --> API[🔌 REST API]
+    API --> Server[⚙️ Node.js / Express]
+    Server --> DB[(🗄️ PostgreSQL)]
+    DB --> Accounts[Accounts]
+    DB --> Balances[Balances]
+    DB --> Transactions[Transactions]
+    DB --> Bills[Bills]
 ```
+
+**Key features:** 🔐 Authentication · 🏦 Account management · 💰 Balance management · 💸 Credit/debit/transfer · 🧾 Utility bill generation & payment · 📊 Admin dashboard · 📄 PDF generation · 📧 Email + 📱 SMS notifications
 
 ---
 
-## 📄 OCR Account Opening System
+### 📄 OCR Account Opening System
 
-A document-processing application designed to automate data extraction from customer account-opening forms.
-
-**Built with**
+Automates data extraction from customer account-opening forms.
 
 `Node.js` `Express.js` `Tesseract.js` `PDF Parsing` `PostgreSQL`
 
-**What I implemented**
-
-- 📤 Document upload
-- 🔍 OCR text extraction
-- 📄 PDF processing
-- 🧠 Automatic field detection
-- ✍️ Form auto-population
-- 🗄️ Database integration
-- 📧 Email notifications
-
-**Workflow**
-
-```text
-Scanned Form / PDF
-        ↓
-   Document Upload
-        ↓
-       OCR
-        ↓
-  Text Extraction
-        ↓
- Field Detection
-        ↓
- Database
+```mermaid
+flowchart LR
+    A[📄 Scanned Form / PDF] --> B[📤 Upload]
+    B --> C[🔍 OCR - Tesseract.js]
+    C --> D[✍️ Text Extraction]
+    D --> E[🧠 Field Detection]
+    E --> F[🗄️ Database]
+    F --> G[📧 Email Notification]
 ```
+
+**Key features:** Document upload · OCR text extraction · PDF processing · Automatic field detection · Form auto-population · Database integration
 
 ---
 
-## 🧮 Batch-Wise GPA Calculator
-
-A PostgreSQL-based academic management system for calculating semester and batch-wise GPA.
-
-**Built with**
+### 🧮 Batch-Wise GPA Calculator
+PostgreSQL-based academic management system for semester and batch-wise GPA calculation.
 
 `PostgreSQL` `SQL` `Database Design`
 
-**Focus**
-
-- Relational database design
-- SQL queries
-- GPA calculation logic
-- Student result management
-- Batch-wise analysis
+**Focus:** Relational database design · SQL queries · GPA calculation logic · Student result management · Batch-wise analysis
 
 ---
 
-## 🎮 Programming Projects
-
-Smaller projects built while strengthening programming and software development fundamentals.
+### 🎮 Other Programming Projects
 
 | Project | Focus |
 |---|---|
@@ -163,80 +105,59 @@ Smaller projects built while strengthening programming and software development 
 
 ---
 
-# 🧰 My Development Stack
+## 🧰 Development Stack
 
 <div align="center">
 
-### Languages
-
+**Languages**
 <img src="https://skillicons.dev/icons?i=c,java,js,dart" />
 
-### Frontend & Mobile
-
+**Frontend & Mobile**
 <img src="https://skillicons.dev/icons?i=html,css,flutter" />
 
-### Backend
-
+**Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Database & API
-
+**Database & API**
 <img src="https://skillicons.dev/icons?i=postgres,postman" />
 
-### Tools
-
+**Tools**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
 </div>
 
 ---
 
-# 🔌 What I Work With
+## 🔌 How Everything Connects
 
-```text
-                 SOFTWARE DEVELOPMENT
-                         │
-       ┌─────────────────┼─────────────────┐
-       │                 │                 │
-     Mobile            Backend          Database
-       │                 │                 │
-    Flutter          Node.js         PostgreSQL
-       │             Express.js            │
-       └────────────────┼─────────────────┘
-                        │
-                     REST APIs
-                        │
-                 System Integration
-                        │
-                   AI / Automation
+```mermaid
+flowchart TB
+    subgraph Mobile
+    F[Flutter]
+    end
+    subgraph Backend
+    N[Node.js] --> E[Express.js]
+    end
+    subgraph Database
+    P[(PostgreSQL)]
+    end
+
+    F --> API[REST APIs]
+    API --> Backend
+    Backend --> P
+    API --> Integration[System Integration]
+    Integration --> AI[AI / Automation]
 ```
 
-### Current technical interests
-
-`Backend Development`
-
-`REST APIs`
-
-`PostgreSQL`
-
-`Flutter`
-
-`AI Integration`
-
-`OCR`
-
-`Document Processing`
-
-`Enterprise Systems`
+**Current technical interests:** `Backend Development` · `REST APIs` · `PostgreSQL` · `Flutter` · `AI Integration` · `OCR` · `Document Processing` · `Enterprise Systems`
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true&rank_icon=github" width="48%"/>
-
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true" width="48%"/>
 
 <br><br>
@@ -247,7 +168,7 @@ Smaller projects built while strengthening programming and software development 
 
 ---
 
-# 📈 Coding Activity
+## 📈 Coding Summary
 
 <div align="center">
 
@@ -257,58 +178,60 @@ Smaller projects built while strengthening programming and software development 
 
 ---
 
-# 💼 Experience
+## 💼 Experience Timeline
 
-### 🏦 HBL — Information Technology Intern
+```mermaid
+timeline
+    title Internship Journey
+    Centura : C Programming Intern
+    Skills4U : Software Development Intern
+    Apexcify Technologies : Front-End Intern
+    HBL : Information Technology Intern
+```
 
-Gained practical experience in a professional banking technology environment and exposure to enterprise workflows.
-
-### 💻 Apexcify Technologies — Front-End Intern
-
-Worked on front-end development and practical web development tasks.
-
-### 💻 Centura — C Programming Intern
-
-Worked on C programming tasks while strengthening programming and problem-solving fundamentals.
-
-### 💻 Skills4U — Software Development Intern
-
-Gained practical experience working on software development tasks and development workflows.
+| Role | Company | Focus |
+|---|---|---|
+| 🏦 IT Intern | HBL | Enterprise banking technology environment |
+| 💻 Front-End Intern | Apexcify Technologies | Front-end & web development |
+| 💻 C Programming Intern | Centura | C programming & problem-solving |
+| 💻 Software Development Intern | Skills4U | Software development workflows |
 
 ---
 
-# 🤖 Exploring AI Integration
+## 🤖 Exploring AI Integration
 
 I'm interested in using AI as part of **real software systems**, rather than treating AI as a standalone technology.
 
-Currently exploring:
+```mermaid
+flowchart TB
+    OCR[🔍 OCR] --> DP[Document Processing]
+    OCR --> IE[Information Extraction]
+    IE --> AUTO[Automation]
+    DP --> AUTO
+    AUTO --> BE[⚙️ Backend APIs]
+    BE --> DB[(🗄️ Database Systems)]
+    DB --> BA[💼 Business Applications]
 
-```text
-OCR
- │
- ├── Document Processing
- │
- ├── Information Extraction
- │
- └── Automation
-        │
-        ▼
-    Backend APIs
-        │
-        ▼
-   Database Systems
-        │
-        ▼
-   Business Applications
+    style OCR fill:#4D96FF,color:#fff
+    style BA fill:#6BCB77,color:#000
 ```
 
-Areas I'm exploring:
-
-`OCR` `Generative AI` `Automation` `Document AI` `AI APIs` `System Integration`
+`OCR` · `Generative AI` · `Automation` · `Document AI` · `AI APIs` · `System Integration`
 
 ---
 
-# 🔨 Currently Building My Skills Around
+## 🔨 Skills In Progress
+
+```mermaid
+%%{init: {'theme':'base'}}%%
+pie title Where My Practice Time Goes
+    "Java (OOP + DSA)" : 20
+    "PostgreSQL / SQL" : 18
+    "REST APIs" : 18
+    "Flutter" : 18
+    "AI Integration" : 16
+    "Cloud & Enterprise" : 10
+```
 
 | Area | What I'm Practicing |
 |---|---|
@@ -322,47 +245,38 @@ Areas I'm exploring:
 
 ---
 
-# 🎯 2026 Focus
+## 🎯 2026 Roadmap
 
-```text
-Java + DSA
-     ↓
-Backend Development
-     ↓
-PostgreSQL
-     ↓
-REST APIs
-     ↓
-Flutter
-     ↓
-AI Integration
-     ↓
-Enterprise Systems
+```mermaid
+flowchart LR
+    A[Java + DSA] --> B[Backend Dev]
+    B --> C[PostgreSQL]
+    C --> D[REST APIs]
+    D --> E[Flutter]
+    E --> F[AI Integration]
+    F --> G[Enterprise Systems]
+
+    style A fill:#FFD93D,color:#000
+    style G fill:#6BCB77,color:#000
 ```
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:sidraamirbux@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Sidra-Amirbux-Khonbati">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sidra-amirbux-khonbati-992b9833b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&style=flat"/>
 
