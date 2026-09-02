@@ -41,8 +41,6 @@ I'm particularly interested in learning how **AI can be integrated with real-wor
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true" width="48%" />
-
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true" width="48%" />
 
 <br><br>
