@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sidra Amirbux Khonbati 👋
+# 👋 Hi, I'm Sidra Amirbux Khonbati
 
 ### Software Engineering Student • Mobile & Web Developer • AI Integration Enthusiast
 
@@ -24,48 +24,54 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Engineering student at SZABIST University** with a strong interest in building practical software systems.
+I'm a **Software Engineering student at SZABIST University** with an interest in building practical and reliable software systems.
 
-I enjoy working across the stack — from **mobile interfaces and backend APIs to databases and system integrations**.
+I enjoy working across different layers of an application — from **mobile interfaces and backend APIs to databases and system integration**.
 
 Currently, I'm focusing on:
 
-- 📱 Flutter & mobile application development
+- 📱 Mobile application development with Flutter
 - ⚙️ Backend development with Node.js and Express
-- 🗄️ PostgreSQL & database design
+- 🗄️ PostgreSQL and database design
 - 🔌 REST APIs and system integration
 - 🤖 AI-powered applications and automation
-- 📄 OCR & document processing
+- 📄 OCR and document processing
 - ☁️ Cloud and enterprise technologies
 
-My long-term goal is to work on **AI-integrated enterprise systems** that solve real-world problems.
+I'm particularly interested in **integrating AI capabilities into real-world software and enterprise systems**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js,dart" />
 </p>
 
-### Web & Backend
+### 🌐 Web & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
 </p>
 
-### Mobile
+### 📱 Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-### Database & Development Tools
+### 🗄️ Database & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,postman,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,postman" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
@@ -79,7 +85,7 @@ My long-term goal is to work on **AI-integrated enterprise systems** that solve 
 
 ## 🏦 Digital Banking & Utility Payment System
 
-A full-stack digital banking and utility bill payment application designed around real-world banking workflows.
+A full-stack application designed around digital banking and utility bill payment workflows.
 
 **Tech Stack**
 
@@ -87,7 +93,7 @@ A full-stack digital banking and utility bill payment application designed aroun
 
 **Key Features**
 
-- 🔐 Authentication
+- 🔐 Customer authentication
 - 🏦 Account management
 - 💰 Balance management
 - 💸 Fund transactions
@@ -103,7 +109,7 @@ A full-stack digital banking and utility bill payment application designed aroun
 
 ## 📄 OCR Account Opening System
 
-A document-processing application designed to reduce manual data entry from customer account-opening forms.
+A document-processing system designed to reduce manual data entry from customer account-opening forms.
 
 **Tech Stack**
 
@@ -116,7 +122,7 @@ A document-processing application designed to reduce manual data entry from cust
 - 📄 PDF processing
 - 🧠 Automatic field detection
 - ✍️ Form auto-fill
-- 📧 Email notification
+- 📧 Email notifications
 - 🗄️ Database integration
 
 </td>
@@ -129,11 +135,18 @@ A document-processing application designed to reduce manual data entry from cust
 
 ## 🧮 Batch-Wise GPA Calculator
 
-A PostgreSQL-based academic system for managing student results and calculating semester and batch-wise GPA.
+A PostgreSQL-based academic system for calculating semester and batch-wise GPA.
 
 **Tech Stack**
 
 `PostgreSQL` `SQL` `Database Design`
+
+**Focus**
+
+- Relational database design
+- SQL queries
+- GPA calculation logic
+- Academic data management
 
 </td>
 
@@ -141,15 +154,15 @@ A PostgreSQL-based academic system for managing student results and calculating 
 
 ## 🎮 Programming Projects
 
-A collection of programming projects developed while strengthening programming and software engineering fundamentals.
+A collection of projects developed while strengthening programming and software engineering fundamentals.
 
-**Projects include**
+**Includes**
 
-- Tic Tac Toe
-- Rock Paper Scissors
-- Responsive Calculator
-- HR Management System
-- Web development projects
+- 🎮 Tic Tac Toe
+- ✊ Rock Paper Scissors
+- 🧮 Responsive Calculator
+- 👥 HR Management System
+- 🌐 Web development projects
 
 </td>
 
@@ -158,7 +171,7 @@ A collection of programming projects developed while strengthening programming a
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -174,29 +187,17 @@ A collection of programming projects developed while strengthening programming a
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-Amirbux-Khonbati&theme=github-compact&hide_border=true" width="95%"/>
-
-</div>
-
-> If the activity graph service is unavailable, GitHub will still display the statistics above.
-
----
-
 # 📚 Currently Learning
 
 | Area | Focus |
 |---|---|
-| 🧠 Data Structures | Algorithms & problem solving |
-| ☕ Java | OOP, backend concepts & problem solving |
+| 🧠 Data Structures & Algorithms | Problem solving with Java |
+| ☕ Java | OOP, backend concepts & development |
 | 🗄️ PostgreSQL | Advanced SQL & database design |
 | 🔌 REST APIs | Authentication & system integration |
 | 📱 Flutter | Mobile application development |
 | 🤖 AI | AI tools & application integration |
-| ☁️ Cloud | Cloud & enterprise technologies |
+| ☁️ Cloud | Cloud and enterprise technologies |
 
 ---
 
@@ -204,33 +205,45 @@ A collection of programming projects developed while strengthening programming a
 
 ### 🏦 HBL — Information Technology Intern
 
-Gained exposure to professional banking technology environments, enterprise workflows and real-world IT operations.
+Gained practical exposure to a professional banking technology environment, enterprise workflows, and real-world IT operations.
 
 ### 💻 Apexcify Technologies — Front-End Intern
 
-Worked with front-end technologies and gained practical experience in web development.
+Gained hands-on experience with front-end development and web technologies through practical development tasks.
 
 ### 💻 Centura — C Programming Intern
 
-Strengthened C programming fundamentals and problem-solving skills through practical development tasks.
+Strengthened C programming fundamentals and problem-solving skills through practical programming tasks.
 
 ### 💻 Skills4U — Software Development Intern
 
-Worked on software development tasks and gained practical experience with development workflows.
+Gained practical experience with software development tasks and development workflows.
+
+---
+
+# 🤖 AI & Automation
+
+I'm exploring how AI can be integrated into conventional software systems to automate repetitive processes and improve user workflows.
+
+### Areas of Interest
+
+`OCR` • `Document Processing` • `Generative AI` • `Automation` • `AI Integration` • `REST APIs`
+
+My goal is to combine **software engineering + APIs + databases + AI** to build useful real-world applications.
 
 ---
 
 # 🎯 2026 Goals
 
 - [ ] Strengthen Data Structures & Algorithms with Java
-- [ ] Build stronger backend development skills
+- [ ] Improve Java backend development
 - [ ] Master PostgreSQL and database design
-- [ ] Develop production-style REST APIs
+- [ ] Build production-style REST APIs
 - [ ] Improve Flutter development
 - [ ] Build AI-integrated applications
 - [ ] Learn enterprise system integration
 - [ ] Contribute to open-source projects
-- [ ] Build production-quality portfolio projects
+- [ ] Build a stronger software engineering portfolio
 
 ---
 
@@ -242,7 +255,7 @@ Worked on software development tasks and gained practical experience with develo
 
 </div>
 
-I believe the best way to learn software engineering is by **building real systems, solving problems, and continuously improving them.**
+I believe the best way to grow as a software engineer is to **build real systems, solve problems, learn from mistakes, and continuously improve.**
 
 ---
 
