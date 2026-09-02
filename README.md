@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif" width="30px" alt="wave"/> Hi, my name is **Sidra Amirbux Khonbati**
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIHZpZXdCb3g9IjAgMCA0NSA0NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGV4dCB4PSI0IiB5PSIzNiIgZm9udC1zaXplPSIzMiI+CiAgICDwn5GLCiAgICA8YW5pbWF0ZVRyYW5zZm9ybQogICAgICBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iCiAgICAgIHR5cGU9InJvdGF0ZSIKICAgICAgdmFsdWVzPSIwIDIyIDIyOyAyNSAyMiAyMjsgMCAyMiAyMjsgMjUgMjIgMjI7IDAgMjIgMjI7IDAgMjIgMjIiCiAgICAgIGR1cj0iMi41cyIKICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiCiAgICAvPgogIDwvdGV4dD4KPC9zdmc+" width="35px" alt="wave"/> Hi, my name is **Sidra Amirbux Khonbati**
 =====
 
 ### Software Engineering Student | Mobile & Backend Developer | AI Integration
@@ -27,7 +27,6 @@ Hi, I'm Sidra! 🚀 Software Engineering student at **SZABIST University**, pass
   <img width="42" height="42" src="https://skillicons.dev/icons?i=express" alt="Express"/>
   <img width="42" height="42" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
   <img width="42" height="42" src="https://skillicons.dev/icons?i=html,css" alt="HTML CSS"/>
-  <img width="42" height="42" src="https://skillicons.dev/icons?i=c" alt="C"/>
   <img width="42" height="42" src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" alt="Tools"/>
 </p>
 
