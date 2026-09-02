@@ -1,85 +1,71 @@
 <div align="center">
 
-# 👋 Hi, I'm Sidra Amirbux Khonbati
+# Hi, I'm Sidra Amirbux Khonbati 👋
 
-### 💻 Software Engineering Student | Mobile & Web Developer | AI Integration Enthusiast
+### Software Engineering Student • Mobile & Web Developer • AI Integration Enthusiast
 
 <p>
   <a href="https://github.com/Sidra-Amirbux-Khonbati">
-    <img src="https://img.shields.io/badge/GitHub-Sidra--Amirbux--Khonbati-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:sidraamirbux@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Mobile+%26+Web+Developer;Flutter+%7C+Node.js+%7C+PostgreSQL;AI+%26+OCR+Integration+Enthusiast;Building+Real-World+Software+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Flutter+%7C+Node.js+%7C+PostgreSQL;Backend+%26+API+Development;AI+%26+OCR+Integration;Building+Real-World+Software+Solutions"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a **BS Software Engineering student at SZABIST University** who enjoys turning ideas into practical software solutions.
+I'm a **Software Engineering student at SZABIST University** with a strong interest in building practical software systems.
 
-My current interests are focused around:
+I enjoy working across the stack — from **mobile interfaces and backend APIs to databases and system integrations**.
 
-* 📱 Mobile application development
-* 🌐 Backend & web development
-* 🗄️ Database design & SQL
-* 🔌 REST APIs & system integration
-* 🤖 AI-powered applications
-* 📄 OCR & document automation
-* ☁️ Cloud & enterprise technologies
+Currently, I'm focusing on:
 
-I'm particularly interested in learning how **AI can be integrated with real-world enterprise systems**.
+- 📱 Flutter & mobile application development
+- ⚙️ Backend development with Node.js and Express
+- 🗄️ PostgreSQL & database design
+- 🔌 REST APIs and system integration
+- 🤖 AI-powered applications and automation
+- 📄 OCR & document processing
+- ☁️ Cloud and enterprise technologies
+
+My long-term goal is to work on **AI-integrated enterprise systems** that solve real-world problems.
 
 ---
 
-# 📊 GitHub Dashboard
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Sidra-Amirbux-Khonbati&hide_border=true" width="70%" />
-
-</div>
----
-
-# 🧠 My Technology Stack
-
-### 💻 Programming
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,js,dart" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,dart" />
 </p>
 
-### 🌐 Web & Backend
+### Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
 </p>
 
-### 📱 Mobile
+### Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-### 🗄️ Database & APIs
+### Database & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,postman" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,postman,git,github,vscode,docker" />
 </p>
 
 ---
@@ -88,228 +74,175 @@ I'm particularly interested in learning how **AI can be integrated with real-wor
 
 <table>
 <tr>
-<td width="50%">
 
-### 🏦 Digital Banking & Utility Payment Application
+<td width="50%" valign="top">
 
-A full-stack banking and utility payment system built around mobile, backend, database and API integration.
+## 🏦 Digital Banking & Utility Payment System
 
-**Tech:**
+A full-stack digital banking and utility bill payment application designed around real-world banking workflows.
 
-`Flutter` `Node.js` `Express.js` `PostgreSQL` `REST API`
+**Tech Stack**
 
-**Features:**
+`Flutter` `Node.js` `Express.js` `PostgreSQL` `REST APIs`
 
-* 🔐 Customer authentication
-* 🏦 Account management
-* 💰 Balance management
-* 💸 Transactions
-* 🧾 Utility bill payment
-* 📊 Admin dashboard
-* 📄 PDF generation
-* 📧 Email notifications
-* 📱 SMS integration
+**Key Features**
+
+- 🔐 Authentication
+- 🏦 Account management
+- 💰 Balance management
+- 💸 Fund transactions
+- 🧾 Utility bill payments
+- 📊 Admin dashboard
+- 📄 PDF generation
+- 📧 Email notifications
+- 📱 SMS integration
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📄 OCR Account Opening System
+
+A document-processing application designed to reduce manual data entry from customer account-opening forms.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `Tesseract.js` `PDF Parsing` `PostgreSQL`
+
+**Key Features**
+
+- 📤 Document upload
+- 🔍 OCR text extraction
+- 📄 PDF processing
+- 🧠 Automatic field detection
+- ✍️ Form auto-fill
+- 📧 Email notification
+- 🗄️ Database integration
 
 </td>
 
-<td width="50%">
-
-### 📄 OCR Account Opening System
-
-A document-processing system designed to reduce manual customer form entry.
-
-**Tech:**
-
-`Node.js` `Express.js` `OCR` `PDF Parsing` `PostgreSQL`
-
-**Features:**
-
-* 📤 Document upload
-* 🔍 OCR text extraction
-* 📄 PDF parsing
-* 🧠 Automatic field detection
-* ✍️ Form auto-fill
-* 📧 Customer email notification
-* 🗄️ Database integration
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🧮 Batch Wise GPA Calculator
+<td width="50%" valign="top">
 
-A PostgreSQL-based academic management system for calculating semester and batch-wise GPA.
+## 🧮 Batch-Wise GPA Calculator
 
-**Tech:**
+A PostgreSQL-based academic system for managing student results and calculating semester and batch-wise GPA.
+
+**Tech Stack**
 
 `PostgreSQL` `SQL` `Database Design`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Programming Projects
+## 🎮 Programming Projects
 
-A collection of programming and beginner-to-intermediate software projects.
+A collection of programming projects developed while strengthening programming and software engineering fundamentals.
 
-**Includes:**
+**Projects include**
 
-* 🎮 Tic Tac Toe
-* ✊ Rock Paper Scissors
-* 🧮 Responsive Calculator
-* 👥 HR Management System
-* 🌐 Web development projects
+- Tic Tac Toe
+- Rock Paper Scissors
+- Responsive Calculator
+- HR Management System
+- Web development projects
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🤖 AI & Automation
+# 📊 GitHub Statistics
 
-I'm currently exploring the intersection of **software engineering and AI**.
+<div align="center">
 
-```text
-                    AI INTEGRATION
-                          │
-             ┌────────────┼────────────┐
-             │            │            │
-            OCR       Document AI    Automation
-             │            │            │
-             └────────────┼────────────┘
-                          │
-                    Backend APIs
-                          │
-                    Enterprise Apps
-```
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true&rank_icon=github" width="48%"/>
 
-### Areas I'm exploring
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true" width="48%"/>
 
-`OCR` • `PDF Processing` • `Generative AI` • `AI Tools` • `Automation` • `AI Integration`
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Sidra-Amirbux-Khonbati&hide_border=true" width="70%"/>
+
+</div>
 
 ---
 
-# 🗺️ My Developer Journey
+# 📈 Contribution Activity
 
-```text
-       C / Java / OOP
-              │
-              ▼
-       Data Structures
-              │
-              ▼
-       Web Development
-              │
-              ▼
-       Backend Development
-              │
-              ▼
-       PostgreSQL + SQL
-              │
-              ▼
-       REST APIs
-              │
-              ▼
-       Flutter / Mobile
-              │
-              ▼
-       AI Integration
-              │
-              ▼
-   Enterprise System Integration
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-Amirbux-Khonbati&theme=github-compact&hide_border=true" width="95%"/>
+
+</div>
+
+> If the activity graph service is unavailable, GitHub will still display the statistics above.
 
 ---
 
 # 📚 Currently Learning
 
-| Area               | Focus                              |
-| ------------------ | ---------------------------------- |
-| 🧠 Data Structures | Algorithms & problem solving       |
-| ☕ Java             | Advanced OOP & backend concepts    |
-| 🗄️ PostgreSQL     | Database design & advanced SQL     |
-| 🔌 APIs            | REST, authentication & integration |
-| 📱 Flutter         | Mobile application development     |
-| 🤖 AI              | AI tools & application integration |
-| ☁️ Cloud           | Cloud & enterprise technologies    |
+| Area | Focus |
+|---|---|
+| 🧠 Data Structures | Algorithms & problem solving |
+| ☕ Java | OOP, backend concepts & problem solving |
+| 🗄️ PostgreSQL | Advanced SQL & database design |
+| 🔌 REST APIs | Authentication & system integration |
+| 📱 Flutter | Mobile application development |
+| 🤖 AI | AI tools & application integration |
+| ☁️ Cloud | Cloud & enterprise technologies |
 
 ---
 
 # 💼 Experience
 
-### 🏦 HBL — Internship
+### 🏦 HBL — Information Technology Intern
 
-Worked in a professional banking/technology environment and gained exposure to real-world software and enterprise workflows.
+Gained exposure to professional banking technology environments, enterprise workflows and real-world IT operations.
 
-### 💻 Apexcify Technologies — Front-End Internship
+### 💻 Apexcify Technologies — Front-End Intern
 
-Worked on front-end development and web technologies.
+Worked with front-end technologies and gained practical experience in web development.
 
-### 💻 Centura — C Programming Internship
+### 💻 Centura — C Programming Intern
 
-Focused on C programming and programming fundamentals.
+Strengthened C programming fundamentals and problem-solving skills through practical development tasks.
 
-### 💻 Skills4U — Software Development Internship
+### 💻 Skills4U — Software Development Intern
 
-Gained experience working on software development tasks and practical projects.
-
----
-
-# 🏆 What I Like Building
-
-```text
-📱 Mobile Applications
-       +
-🌐 Web Applications
-       +
-⚙️ Backend Systems
-       +
-🗄️ Databases
-       +
-🔌 APIs
-       +
-🤖 AI
-       =
-🚀 Real-World Software Solutions
-```
-
----
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true&theme=github" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidra-Amirbux-Khonbati&theme=github&hide_border=true" width="48%">
-
-</div>
+Worked on software development tasks and gained practical experience with development workflows.
 
 ---
 
 # 🎯 2026 Goals
 
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Become stronger in Java backend development
-* [ ] Master PostgreSQL & database design
-* [ ] Build more production-style APIs
-* [ ] Improve Flutter development
-* [ ] Build AI-integrated applications
-* [ ] Learn enterprise system integration
-* [ ] Contribute to open-source projects
-* [ ] Build a strong software engineering portfolio
+- [ ] Strengthen Data Structures & Algorithms with Java
+- [ ] Build stronger backend development skills
+- [ ] Master PostgreSQL and database design
+- [ ] Develop production-style REST APIs
+- [ ] Improve Flutter development
+- [ ] Build AI-integrated applications
+- [ ] Learn enterprise system integration
+- [ ] Contribute to open-source projects
+- [ ] Build production-quality portfolio projects
 
 ---
 
-# 💡 My Development Philosophy
+# 💡 Engineering Mindset
 
 <div align="center">
 
-### **Learn → Build → Break → Debug → Improve → Repeat 🚀**
+### Learn → Build → Debug → Improve → Repeat 🚀
 
 </div>
+
+I believe the best way to learn software engineering is by **building real systems, solving problems, and continuously improving them.**
 
 ---
 
@@ -335,10 +268,8 @@ Gained experience working on software development tasks and practical projects.
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&style=flat"/>
+
 ### ⭐ Thanks for visiting my profile!
-
-<a href="https://sidra-amirbux-khonbati.github.io/sidra_portfolio/"/>
-<img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&color=0e75b6&style=flat" />
-
 
 </div>
