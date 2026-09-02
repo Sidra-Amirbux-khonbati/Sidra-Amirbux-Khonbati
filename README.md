@@ -35,13 +35,13 @@ Hi, I'm Sidra! 🚀 Software Engineering student at **SZABIST University**, pass
 
 <p>
   <a href="https://github.com/Sidra-Amirbux-Khonbati">
-    <img width="32" height="32" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/sidra-amirbux-khonbati-992b9833b/">
-    <img width="32" height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sidraamirbux@gmail.com">
-    <img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -50,7 +50,8 @@ Hi, I'm Sidra! 🚀 Software Engineering student at **SZABIST University**, pass
 ## Achievements
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-Amirbux-Khonbati&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true&theme=dark" width="49%" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=Sidra-Amirbux-Khonbati&hide_border=true&theme=dark" width="49%" alt="GitHub streak"/>
 </p>
 
 <br>
