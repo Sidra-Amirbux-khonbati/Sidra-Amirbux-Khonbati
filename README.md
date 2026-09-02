@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sidra Amirbux Khonbati
 
-### Software Engineering Student • Mobile & Web Developer • AI Integration Enthusiast
+### Software Engineering Student | Mobile & Backend Developer | AI Integration
 
 <p>
   <a href="https://github.com/Sidra-Amirbux-Khonbati">
@@ -16,128 +16,126 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Flutter+%7C+Node.js+%7C+PostgreSQL;Backend+%26+API+Development;AI+%26+OCR+Integration;Building+Real-World+Software+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Mobile+%26+Backend+Applications;Flutter+%7C+Node.js+%7C+PostgreSQL;Designing+REST+APIs+%26+Database+Systems;Exploring+AI+%26+OCR+Integration;Turning+Ideas+Into+Working+Software"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About
 
-I'm a **Software Engineering student at SZABIST University** with an interest in building practical and reliable software systems.
+I'm a Software Engineering student at **SZABIST University** who enjoys building applications that solve practical problems.
 
-I enjoy working across different layers of an application — from **mobile interfaces and backend APIs to databases and system integration**.
+My work currently sits around:
 
-Currently, I'm focusing on:
+**Mobile Apps → Backend APIs → Databases → Integrations → AI**
 
-- 📱 Mobile application development with Flutter
-- ⚙️ Backend development with Node.js and Express
-- 🗄️ PostgreSQL and database design
-- 🔌 REST APIs and system integration
-- 🤖 AI-powered applications and automation
-- 📄 OCR and document processing
-- ☁️ Cloud and enterprise technologies
+I like taking an idea, designing the system behind it, building the application, connecting the APIs and database, and turning it into something that actually works.
 
-I'm particularly interested in **integrating AI capabilities into real-world software and enterprise systems**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,dart" />
-</p>
-
-### 🌐 Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-### 🗄️ Database & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,postman" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
+```text
+Idea
+  ↓
+System Design
+  ↓
+Frontend / Mobile
+  ↓
+Backend API
+  ↓
+Database
+  ↓
+Integration
+  ↓
+Working Software 🚀
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Things I've Built
 
-<table>
-<tr>
+## 🏦 Finova — Digital Banking & Utility Payment System
 
-<td width="50%" valign="top">
+A full-stack digital banking application built around banking and utility-payment workflows.
 
-## 🏦 Digital Banking & Utility Payment System
+**Built with**
 
-A full-stack application designed around digital banking and utility bill payment workflows.
+`Flutter` `Node.js` `Express.js` `PostgreSQL` `REST API`
 
-**Tech Stack**
-
-`Flutter` `Node.js` `Express.js` `PostgreSQL` `REST APIs`
-
-**Key Features**
+**What I implemented**
 
 - 🔐 Customer authentication
 - 🏦 Account management
 - 💰 Balance management
-- 💸 Fund transactions
-- 🧾 Utility bill payments
+- 💸 Credit, debit & transfer transactions
+- 🧾 Utility bill generation & payment
 - 📊 Admin dashboard
 - 📄 PDF generation
 - 📧 Email notifications
 - 📱 SMS integration
+- 🗄️ PostgreSQL database
 
-</td>
+**Architecture**
 
-<td width="50%" valign="top">
+```text
+Flutter Mobile App
+        │
+        ▼
+   REST API
+        │
+        ▼
+ Node.js / Express
+        │
+        ▼
+   PostgreSQL
+        │
+        ├── Accounts
+        ├── Balances
+        ├── Transactions
+        └── Bills
+```
+
+---
 
 ## 📄 OCR Account Opening System
 
-A document-processing system designed to reduce manual data entry from customer account-opening forms.
+A document-processing application designed to automate data extraction from customer account-opening forms.
 
-**Tech Stack**
+**Built with**
 
 `Node.js` `Express.js` `Tesseract.js` `PDF Parsing` `PostgreSQL`
 
-**Key Features**
+**What I implemented**
 
 - 📤 Document upload
 - 🔍 OCR text extraction
 - 📄 PDF processing
 - 🧠 Automatic field detection
-- ✍️ Form auto-fill
-- 📧 Email notifications
+- ✍️ Form auto-population
 - 🗄️ Database integration
+- 📧 Email notifications
 
-</td>
+**Workflow**
 
-</tr>
+```text
+Scanned Form / PDF
+        ↓
+   Document Upload
+        ↓
+       OCR
+        ↓
+  Text Extraction
+        ↓
+ Field Detection
+        ↓
+ Database
+```
 
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ## 🧮 Batch-Wise GPA Calculator
 
-A PostgreSQL-based academic system for calculating semester and batch-wise GPA.
+A PostgreSQL-based academic management system for calculating semester and batch-wise GPA.
 
-**Tech Stack**
+**Built with**
 
 `PostgreSQL` `SQL` `Database Design`
 
@@ -146,28 +144,90 @@ A PostgreSQL-based academic system for calculating semester and batch-wise GPA.
 - Relational database design
 - SQL queries
 - GPA calculation logic
-- Academic data management
+- Student result management
+- Batch-wise analysis
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 🎮 Programming Projects
 
-A collection of projects developed while strengthening programming and software engineering fundamentals.
+Smaller projects built while strengthening programming and software development fundamentals.
 
-**Includes**
+| Project | Focus |
+|---|---|
+| 🎮 Tic Tac Toe | Java / Programming Logic |
+| ✊ Rock Paper Scissors | Java / Control Flow |
+| 🧮 Responsive Calculator | HTML / CSS / JavaScript |
+| 👥 HR Management System | Programming / Data Management |
+| 🌐 Web Projects | HTML / CSS / JavaScript |
 
-- 🎮 Tic Tac Toe
-- ✊ Rock Paper Scissors
-- 🧮 Responsive Calculator
-- 👥 HR Management System
-- 🌐 Web development projects
+---
 
-</td>
+# 🧰 My Development Stack
 
-</tr>
-</table>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,java,js,dart" />
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=html,css,flutter" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database & API
+
+<img src="https://skillicons.dev/icons?i=postgres,postman" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+
+</div>
+
+---
+
+# 🔌 What I Work With
+
+```text
+                 SOFTWARE DEVELOPMENT
+                         │
+       ┌─────────────────┼─────────────────┐
+       │                 │                 │
+     Mobile            Backend          Database
+       │                 │                 │
+    Flutter          Node.js         PostgreSQL
+       │             Express.js            │
+       └────────────────┼─────────────────┘
+                        │
+                     REST APIs
+                        │
+                 System Integration
+                        │
+                   AI / Automation
+```
+
+### Current technical interests
+
+`Backend Development`
+
+`REST APIs`
+
+`PostgreSQL`
+
+`Flutter`
+
+`AI Integration`
+
+`OCR`
+
+`Document Processing`
+
+`Enterprise Systems`
 
 ---
 
@@ -187,17 +247,13 @@ A collection of projects developed while strengthening programming and software 
 
 ---
 
-# 📚 Currently Learning
+# 📈 Coding Activity
 
-| Area | Focus |
-|---|---|
-| 🧠 Data Structures & Algorithms | Problem solving with Java |
-| ☕ Java | OOP, backend concepts & development |
-| 🗄️ PostgreSQL | Advanced SQL & database design |
-| 🔌 REST APIs | Authentication & system integration |
-| 📱 Flutter | Mobile application development |
-| 🤖 AI | AI tools & application integration |
-| ☁️ Cloud | Cloud and enterprise technologies |
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidra-Amirbux-Khonbati&theme=github" width="95%"/>
+
+</div>
 
 ---
 
@@ -205,61 +261,88 @@ A collection of projects developed while strengthening programming and software 
 
 ### 🏦 HBL — Information Technology Intern
 
-Gained practical exposure to a professional banking technology environment, enterprise workflows, and real-world IT operations.
+Gained practical experience in a professional banking technology environment and exposure to enterprise workflows.
 
 ### 💻 Apexcify Technologies — Front-End Intern
 
-Gained hands-on experience with front-end development and web technologies through practical development tasks.
+Worked on front-end development and practical web development tasks.
 
 ### 💻 Centura — C Programming Intern
 
-Strengthened C programming fundamentals and problem-solving skills through practical programming tasks.
+Worked on C programming tasks while strengthening programming and problem-solving fundamentals.
 
 ### 💻 Skills4U — Software Development Intern
 
-Gained practical experience with software development tasks and development workflows.
+Gained practical experience working on software development tasks and development workflows.
 
 ---
 
-# 🤖 AI & Automation
+# 🤖 Exploring AI Integration
 
-I'm exploring how AI can be integrated into conventional software systems to automate repetitive processes and improve user workflows.
+I'm interested in using AI as part of **real software systems**, rather than treating AI as a standalone technology.
 
-### Areas of Interest
+Currently exploring:
 
-`OCR` • `Document Processing` • `Generative AI` • `Automation` • `AI Integration` • `REST APIs`
+```text
+OCR
+ │
+ ├── Document Processing
+ │
+ ├── Information Extraction
+ │
+ └── Automation
+        │
+        ▼
+    Backend APIs
+        │
+        ▼
+   Database Systems
+        │
+        ▼
+   Business Applications
+```
 
-My goal is to combine **software engineering + APIs + databases + AI** to build useful real-world applications.
+Areas I'm exploring:
 
----
-
-# 🎯 2026 Goals
-
-- [ ] Strengthen Data Structures & Algorithms with Java
-- [ ] Improve Java backend development
-- [ ] Master PostgreSQL and database design
-- [ ] Build production-style REST APIs
-- [ ] Improve Flutter development
-- [ ] Build AI-integrated applications
-- [ ] Learn enterprise system integration
-- [ ] Contribute to open-source projects
-- [ ] Build a stronger software engineering portfolio
-
----
-
-# 💡 Engineering Mindset
-
-<div align="center">
-
-### Learn → Build → Debug → Improve → Repeat 🚀
-
-</div>
-
-I believe the best way to grow as a software engineer is to **build real systems, solve problems, learn from mistakes, and continuously improve.**
+`OCR` `Generative AI` `Automation` `Document AI` `AI APIs` `System Integration`
 
 ---
 
-# 📫 Let's Connect
+# 🔨 Currently Building My Skills Around
+
+| Area | What I'm Practicing |
+|---|---|
+| ☕ Java | OOP + DSA + backend development |
+| 🧠 DSA | Problem solving & algorithms |
+| 🗄️ PostgreSQL | Advanced SQL & database design |
+| 🔌 APIs | REST APIs & authentication |
+| 📱 Flutter | Mobile application development |
+| 🤖 AI | AI-powered application integration |
+| ☁️ Cloud | Cloud & enterprise technologies |
+
+---
+
+# 🎯 2026 Focus
+
+```text
+Java + DSA
+     ↓
+Backend Development
+     ↓
+PostgreSQL
+     ↓
+REST APIs
+     ↓
+Flutter
+     ↓
+AI Integration
+     ↓
+Enterprise Systems
+```
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -283,6 +366,8 @@ I believe the best way to grow as a software engineer is to **build real systems
 
 <img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&style=flat"/>
 
-### ⭐ Thanks for visiting my profile!
+<br><br>
+
+### Building, learning, and shipping. 🚀
 
 </div>
