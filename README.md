@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Sidra Amirbux Khonbati
@@ -16,358 +17,169 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Mobile+%26+Backend+Applications;Flutter+%7C+Node.js+%7C+PostgreSQL;Designing+REST+APIs+%26+Database+Systems;Exploring+AI+%26+OCR+Integration;Turning+Ideas+Into+Working+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Designing+Scalable+Backend+Systems;Building+Cross-Platform+Mobile+Apps+(Flutter);Optimizing+PostgreSQL+Queries+%26+Database+Schemas;Integrating+AI+Pipeline+Workflows;Event-Driven+Architectures+%26+RESTful+Services"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About
+## ⚙️ System Execution Pipeline
 
-I'm a Software Engineering student at **SZABIST University** who enjoys building applications that solve practical problems.
-
-My work currently sits around:
-
-**Mobile Apps → Backend APIs → Databases → Integrations → AI**
-
-I like taking an idea, designing the system behind it, building the application, connecting the APIs and database, and turning it into something that actually works.
+I focus on building software architectures by prioritizing loose coupling, transaction integrity, and predictable response execution across the stack:
 
 ```text
-Idea
-  ↓
-System Design
-  ↓
-Frontend / Mobile
-  ↓
-Backend API
-  ↓
-Database
-  ↓
-Integration
-  ↓
-Working Software 🚀
+[ Client Requests ] ──(REST/JSON)──> [ Node.js Controller Layer ]
+                                            │
+                                  ┌─────────┴─────────┐
+                                  ▼                   ▼
+                           [ Middleware ]     [ Service Domain ]
+                       (JWT Auth / Validation)       │
+                                                      ▼
+                                              [ ORM / Query Layer ]
+                                                      │
+                                                      ▼
+                                             [ PostgreSQL Engine ]
+                                        (ACID Transactions / Indexing)
+
 ```
 
 ---
 
-# 🚀 Things I've Built
+# 🚀 Engineering Projects
 
-## 🏦 Finova — Digital Banking & Utility Payment System
+## 🏦 Finova — Digital Banking & Transaction Engine
 
-A full-stack digital banking application built around banking and utility-payment workflows.
+A full-stack fintech platform designed around transactional consistency, secure balance operations, and decoupled notification pipelines.
 
-**Built with**
+**Tech Stack:** `Flutter` `Node.js` `Express.js` `PostgreSQL` `REST API`
 
-`Flutter` `Node.js` `Express.js` `PostgreSQL` `REST API`
+**Key Engineering Implementations:**
 
-**What I implemented**
+* **Transactional Integrity:** Implemented explicit ACID-compliant database transactions in PostgreSQL to prevent race conditions during concurrent balance transfers.
+* **Security Architecture:** Engineered stateless authentication using JWT with encrypted token persistence and role-based access control (RBAC).
+* **Asynchronous Processing:** Built background email/SMS notification dispatchers to keep API endpoints non-blocking during transaction completions.
+* **Reporting Engine:** Designed stream-based PDF invoice rendering for instant utility bill payment receipts.
 
-- 🔐 Customer authentication
-- 🏦 Account management
-- 💰 Balance management
-- 💸 Credit, debit & transfer transactions
-- 🧾 Utility bill generation & payment
-- 📊 Admin dashboard
-- 📄 PDF generation
-- 📧 Email notifications
-- 📱 SMS integration
-- 🗄️ PostgreSQL database
-
-**Architecture**
+**Architecture Flow:**
 
 ```text
 Flutter Mobile App
-        │
-        ▼
-   REST API
-        │
-        ▼
+       │
+       ▼
+  REST API (JWT)
+       │
+       ▼
  Node.js / Express
-        │
-        ▼
-   PostgreSQL
-        │
-        ├── Accounts
-        ├── Balances
-        ├── Transactions
-        └── Bills
+       │
+       ▼
+ PostgreSQL DB (ACID Transactions)
+       │
+       ├── Accounts & Auth
+       ├── Ledger & Balances
+       ├── Transfer Queue
+       └── Utility Receipts
+
 ```
 
 ---
 
 ## 📄 OCR Account Opening System
 
-A document-processing application designed to automate data extraction from customer account-opening forms.
+An automated document processing pipeline that parses unstructured scanned onboarding forms into validated relational database entities.
 
-**Built with**
+**Tech Stack:** `Node.js` `Express.js` `Tesseract.js` `PostgreSQL` `Regex / Parsing`
 
-`Node.js` `Express.js` `Tesseract.js` `PDF Parsing` `PostgreSQL`
+**Key Engineering Implementations:**
 
-**What I implemented**
-
-- 📤 Document upload
-- 🔍 OCR text extraction
-- 📄 PDF processing
-- 🧠 Automatic field detection
-- ✍️ Form auto-population
-- 🗄️ Database integration
-- 📧 Email notifications
-
-**Workflow**
+* **Multi-Stage Extraction Pipeline:** Designed an ingestion queue that converts incoming PDFs to optimized image binaries for OCR processing.
+* **Pattern Matching Engine:** Developed regex-based field resolution algorithms to parse raw OCR output into structured JSON payloads.
+* **Data Normalization:** Automated entity mapping to auto-populate relational schemas and reduce manual entry errors.
 
 ```text
-Scanned Form / PDF
-        ↓
-   Document Upload
-        ↓
-       OCR
-        ↓
-  Text Extraction
-        ↓
- Field Detection
-        ↓
- Database
+[ Binary Stream Input ] ➔ [ Image Preprocessing ] ➔ [ Tesseract Engine ]
+                                                          │
+                                                          ▼
+[ SQL Storage Layer ] 🛢️ 🔒 [ Schema Sanitizer ] 🧠 ⬅️ [ Regex Parser ]
+
 ```
 
 ---
 
-## 🧮 Batch-Wise GPA Calculator
+## 🧮 Batch-Wise Academic Analytics Engine
 
-A PostgreSQL-based academic management system for calculating semester and batch-wise GPA.
+A relational database system optimized for multi-term GPA tracking, dynamic aggregate indexing, and batch-level academic metrics.
 
-**Built with**
+**Tech Stack:** `PostgreSQL` `Relational Database Design` `Advanced SQL`
 
-`PostgreSQL` `SQL` `Database Design`
+**Key Engineering Implementations:**
 
-**Focus**
-
-- Relational database design
-- SQL queries
-- GPA calculation logic
-- Student result management
-- Batch-wise analysis
+* **Complex Query Optimization:** Authored parameterized SQL aggregate queries using Common Table Expressions (CTEs) and window functions (`AVG() OVER`) to calculate batch rankings without application-level overhead.
+* **Database Normalization:** Designed schema architectures normalized to 3NF to eliminate redundant record propagation across academic departments.
 
 ---
 
-## 🎮 Programming Projects
+## 🎮 Logic & Systems Projects
 
-Smaller projects built while strengthening programming and software development fundamentals.
+Smaller projects built to apply core programming logic, algorithms, and modular design.
 
-| Project | Focus |
-|---|---|
-| 🎮 Tic Tac Toe | Java / Programming Logic |
-| ✊ Rock Paper Scissors | Java / Control Flow |
-| 🧮 Responsive Calculator | HTML / CSS / JavaScript |
-| 👥 HR Management System | Programming / Data Management |
-| 🌐 Web Projects | HTML / CSS / JavaScript |
-
----
-
-# 🧰 My Development Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,java,js,dart" />
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=html,css,flutter" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database & API
-
-<img src="https://skillicons.dev/icons?i=postgres,postman" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-
-</div>
+| Project | Core Engineering Focus |
+| --- | --- |
+| 🎮 Tic Tac Toe | Object-Oriented Design & Game State Evaluation (Java) |
+| ✊ Rock Paper Scissors | Control Flow Logic & State Machine Rules (Java) |
+| 🧮 Responsive Calculator | DOM Event Dispatching & Computational Logic (JS) |
+| 👥 HR Management System | Data Structures & Entity Operations Management |
 
 ---
 
-# 🔌 What I Work With
+# 🧰 Technical Arsenal
 
-```text
-                 SOFTWARE DEVELOPMENT
-                         │
-       ┌─────────────────┼─────────────────┐
-       │                 │                 │
-     Mobile            Backend          Database
-       │                 │                 │
-    Flutter          Node.js         PostgreSQL
-       │             Express.js            │
-       └────────────────┼─────────────────┘
-                        │
-                     REST APIs
-                        │
-                 System Integration
-                        │
-                   AI / Automation
-```
+### Languages & Frameworks
 
-### Current technical interests
-
-`Backend Development`
-
-`REST APIs`
-
-`PostgreSQL`
-
-`Flutter`
-
-`AI Integration`
-
-`OCR`
-
-`Document Processing`
-
-`Enterprise Systems`
+### Databases & Infrastructure
 
 ---
 
-# 📊 GitHub Activity
+# 📊 Activity & Metrics
 
-<div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&hide_border=true" width="48%"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Sidra-Amirbux-Khonbati&hide_border=true" width="70%"/>
-
-</div>
 
 ---
 
-# 📈 Coding Activity
+# 💼 Professional Experience
 
-<div align="center">
+* **Information Technology Intern | HBL**
+* Gained hands-on experience with enterprise banking operations, backend compliance workflows, and enterprise IT infrastructure maintenance.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidra-Amirbux-Khonbati&theme=github" width="95%"/>
 
-</div>
+* **Front-End Developer Intern | Apexcify Technologies**
+* Engineered responsive client-side UI components and optimized state rendering performance across web platforms.
 
----
 
-# 💼 Experience
+* **C Programming Intern | Centura**
+* Developed algorithmic scripts and memory-efficient data manipulation utilities using standard C library functions.
 
-### 🏦 HBL — Information Technology Intern
 
-Gained practical experience in a professional banking technology environment and exposure to enterprise workflows.
+* **Software Development Intern | Skills4U**
+* Contributed to full-lifecycle software execution, code refactoring, and team-based version control practices.
 
-### 💻 Apexcify Technologies — Front-End Intern
 
-Worked on front-end development and practical web development tasks.
-
-### 💻 Centura — C Programming Intern
-
-Worked on C programming tasks while strengthening programming and problem-solving fundamentals.
-
-### 💻 Skills4U — Software Development Intern
-
-Gained practical experience working on software development tasks and development workflows.
 
 ---
 
-# 🤖 Exploring AI Integration
+# 🎯 Engineering Focus & Roadmap
 
-I'm interested in using AI as part of **real software systems**, rather than treating AI as a standalone technology.
-
-Currently exploring:
-
-```text
-OCR
- │
- ├── Document Processing
- │
- ├── Information Extraction
- │
- └── Automation
-        │
-        ▼
-    Backend APIs
-        │
-        ▼
-   Database Systems
-        │
-        ▼
-   Business Applications
-```
-
-Areas I'm exploring:
-
-`OCR` `Generative AI` `Automation` `Document AI` `AI APIs` `System Integration`
-
----
-
-# 🔨 Currently Building My Skills Around
-
-| Area | What I'm Practicing |
-|---|---|
-| ☕ Java | OOP + DSA + backend development |
-| 🧠 DSA | Problem solving & algorithms |
-| 🗄️ PostgreSQL | Advanced SQL & database design |
-| 🔌 APIs | REST APIs & authentication |
-| 📱 Flutter | Mobile application development |
-| 🤖 AI | AI-powered application integration |
-| ☁️ Cloud | Cloud & enterprise technologies |
-
----
-
-# 🎯 2026 Focus
-
-```text
-Java + DSA
-     ↓
-Backend Development
-     ↓
-PostgreSQL
-     ↓
-REST APIs
-     ↓
-Flutter
-     ↓
-AI Integration
-     ↓
-Enterprise Systems
-```
+* **Backend Architecture:** Advanced Java concurrency models, REST API performance tuning, and microservices design principles.
+* **Database Systems:** Indexing strategies, execution plan optimization, and schema normalization.
+* **AI Integration Pipeline:** Incorporating OCR engines, LLM orchestration, and vector context integration into production APIs.
 
 ---
 
 # 📫 Connect With Me
 
-<div align="center">
 
-<a href="mailto:sidraamirbux@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<a href="https://github.com/Sidra-Amirbux-Khonbati">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&style=flat"/>
-
-<br><br>
-
-### Building, learning, and shipping. 🚀
-
-</div>
+### Driven by system efficiency, clean abstractions, and robust software architecture. 🚀
