@@ -69,34 +69,39 @@ Document-processing app that automates data extraction from scanned account-open
 </table>
 
 ---
-
 ### 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&hide_border=true&theme=dark" width="49%" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com?user=Sidra-Amirbux-Khonbati&hide_border=true&theme=dark" width="49%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sidra-Amirbux-Khonbati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Amirbux-Khonbati&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidra-Amirbux-Khonbati&theme=tokyonight&hide_border=true" width="97%" />
 
 </div>
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Sidra-Amirbux-Khonbati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sidra-amirbux-khonbati-992b9833b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sidraamirbux@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Sidra-Amirbux-Khonbati">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/sidra-amirbux-khonbati-992b9833b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:sidraamirbux@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&style=flat&color=blue"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Sidra-Amirbux-Khonbati&label=Profile%20Views&style=for-the-badge&color=0e75b6)
 
 </div>
