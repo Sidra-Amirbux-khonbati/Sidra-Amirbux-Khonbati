@@ -62,7 +62,7 @@ Digital banking & utility-payment system — Flutter mobile app with a Node.js/E
 ### 📄 OCR Account Opening System `Public`
 Document-processing app that automates data extraction from scanned account-opening forms using OCR, auto-populating structured fields into a database.
 
-`Node.js` `Tesseract.js` `Express` `PostgreSQL`
+`Node.js` `PDF-Parse` `Express` `PostgreSQL`
 
 </td>
 </tr>
