@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-wave/master/wave.gif" width="30px"> my name is Sidra Amirbux Khonbati
+# Hi <svg width="35" height="35" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg"><text x="4" y="36" font-size="32">👋<animateTransform attributeName="transform" type="rotate" values="0 22 22; 25 22 22; 0 22 22; 25 22 22; 0 22 22; 0 22 22" dur="2.5s" repeatCount="indefinite"/></text></svg> I'm Sidra Amirbux Khonbati
 
 ### Software Engineering Student | Mobile & Backend Developer | AI Integration
 
