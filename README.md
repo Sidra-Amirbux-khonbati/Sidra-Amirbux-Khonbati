@@ -39,8 +39,7 @@ Hi, I'm Sidra! 🚀 I'm a **Software Engineering student at SZABIST University**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,js,nodejs,express,postgres,html,css,git,github,vscode,docker,postman" />
-
+<img src="https://skillicons.dev/icons?i=java,dart,c,flutter,js,nodejs,express,postgres,html,css,git,github,vscode,postman,androidstudio,linux,figma,canva" />
 </div>
 
 ---
